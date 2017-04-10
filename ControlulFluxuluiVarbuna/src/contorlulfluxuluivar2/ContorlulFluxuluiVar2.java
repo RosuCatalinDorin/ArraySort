@@ -6,7 +6,7 @@ public class ContorlulFluxuluiVar2 {
 
     public static void main(String[] args) {
 
-        int[] array = {12, 23, -22,  43, 545, -4, -55, 43, -44, -22144, 12, 0,0, -999, -87, 45, 99, -120};
+        int[] array = {12, 23, -22,  43, 545, -4, -55, 43, -44, -22144, 12, 0,0, -999, -87, 45, 99, -120,589,758};
         int[] mark = new int[array.length];
         Arrays.sort(array);
 
